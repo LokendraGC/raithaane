@@ -21,6 +21,7 @@ get_header();
 
 ?>
 
+<input type="hidden" id="page_no" value="2" />
 
 <!-- rts navigation bar area start -->
 <div class="rts-navigation-area-breadcrumb">
