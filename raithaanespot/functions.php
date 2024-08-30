@@ -16,7 +16,8 @@ $files_loader = array(
     'inc/breadcrumb.php',
     'inc/helper.php',
     'inc/ajax-functions.php',
-    'inc/breadcrumb.php'
+    'inc/breadcrumb.php',
+    'inc/ajax-load-more-products.php'
 );
 
 /**
